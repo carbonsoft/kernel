@@ -7,6 +7,6 @@ kernel
 
 # Фишки, которые будут добавлены
 
-## Catch
+## oops_catch
 
 ## xt_wildstring
